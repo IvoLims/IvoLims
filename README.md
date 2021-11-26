@@ -11,4 +11,4 @@ Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm 
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=blue)
 
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ivolims&count_private=true&theme=dark&show_icons=true"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoLims&langs_count=5&theme=dark&layout=compact">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ivolims&count_private=true&theme=white&show_icons=true"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoLims&langs_count=5&theme=white&layout=compact">
