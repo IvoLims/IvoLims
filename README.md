@@ -2,9 +2,6 @@
 
 Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm getting a degree in Computer Science 👨‍💻.
 
-# Spotify Playing 🎧
-[![Spotify](https://ivolims.vercel.app/api/spotify)](https://open.spotify.com/user/6yqi6oa82cbdcfcmsbumfb73p)
-
 # My programming skills 💻
 
 ![](https://img.shields.io/badge/Code-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
