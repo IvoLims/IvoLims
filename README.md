@@ -3,7 +3,7 @@
 Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm getting a degree in Computer Science 👨‍💻.
 
 <p align="center">
-  <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%">
+  <img src="https://github.com/IvoLims/IvoLims/blob/main/Epic.gif" width="40%">
 </p>
 
 # My programming skills 💻
