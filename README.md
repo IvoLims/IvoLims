@@ -19,6 +19,8 @@ Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm 
 <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ivolims&count_private=true&theme=white&show_icons=true&hide_border=true"/> 
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoLims&langs_count=5&theme=white&layout=compact&hide_border=true"/>
 </p>
 
 
