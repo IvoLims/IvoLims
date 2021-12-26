@@ -1,10 +1,9 @@
 # Ivo Miguel Lima <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div>
   <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
-  <br>
 Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm getting a degree in Computer Science 👨‍💻.
 </div>
-#
+
 
 # My programming skills 💻
 
