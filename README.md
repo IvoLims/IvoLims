@@ -30,5 +30,5 @@ Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm 
 [![Email badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ivomiguel58@hotmail.com)
 [![Discord badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](IvoLim's#6380)
 [![Spotify badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/6yqi6oa82cbdcfcmsbumfb73p)
-![Discord](https://img.shields.io/badge/IvoLims%26380-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/IvoLim's%6380-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IvoLims.IvoLims)
