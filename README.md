@@ -23,9 +23,6 @@ Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoLims&langs_count=5&theme=white&layout=compact&hide_border=true"/>
 </p>
 
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ivolims&count_private=true&theme=white&show_icons=true&hide_border=true"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoLims&langs_count=5&theme=white&layout=compact&hide_border=true">
-
 ## How to reach me 📫
 
 [![Email badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ivomiguel58@hotmail.com)
