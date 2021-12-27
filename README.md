@@ -25,22 +25,9 @@ Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoLims&langs_count=5&theme=white&layout=compact&hide_border=true"/>
 </p>
 
-## How to reach me 📫
-
-[![Email badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ivomiguel58@hotmail.com)
-[![Discord](https://img.shields.io/badge/IvoLim's%236380-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](IvoLim's#6380)
-[![Spotify badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/6yqi6oa82cbdcfcmsbumfb73p)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=IvoLims.IvoLims)
-
-<div align="center">
-
-
 <i>Follow me around the web:</i><br>
 
-  <a target="_blank" href="https://www.linkedin.com/in/sabbir-mollah/">LinkedIn</a> ●
-  <a target="_blank" href="https://www.facebook.com/sabbir.sabby/">Facebook</a> ●
-  <a target="_blank" href="https://medium.com/@sabbirmollah/">Medium</a> ●
+  <a target="_blank" href="https://www.linkedin.com/in/ivo-lima-979a31229/">LinkedIn</a> ●
   <a target="_blank" href="https://open.spotify.com/user/6yqi6oa82cbdcfcmsbumfb73p">Spotify</a>
-
 
 </div>
