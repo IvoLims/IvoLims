@@ -31,3 +31,16 @@ Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm 
 [![Discord](https://img.shields.io/badge/IvoLim's%236380-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](IvoLim's#6380)
 [![Spotify badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/6yqi6oa82cbdcfcmsbumfb73p)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IvoLims.IvoLims)
+
+<div align="center">
+
+
+<i>Follow me around the web:</i><br>
+
+  <a target="_blank" href="https://www.linkedin.com/in/sabbir-mollah/">LinkedIn</a> ●
+  <a target="_blank" href="https://www.facebook.com/sabbir.sabby/">Facebook</a> ●
+  <a target="_blank" href="https://medium.com/@sabbirmollah/">Medium</a> ●
+  <a target="_blank" href="https://open.spotify.com/user/6yqi6oa82cbdcfcmsbumfb73p">Spotify</a>
+
+
+</div>
