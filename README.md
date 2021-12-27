@@ -25,7 +25,8 @@ Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoLims&langs_count=5&theme=white&layout=compact&hide_border=true"/>
 </p>
 
-<i>Follow me around the web:</i><br>
+<div align="center">
+  <i>Follow me around the web:</i><br>
 
   <a target="_blank" href="https://www.linkedin.com/in/ivo-lima-979a31229/">LinkedIn</a> ●
   <a target="_blank" href="https://open.spotify.com/user/6yqi6oa82cbdcfcmsbumfb73p">Spotify</a>
