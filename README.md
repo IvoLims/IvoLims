@@ -32,3 +32,7 @@ Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm 
   <a target="_blank" href="https://open.spotify.com/user/6yqi6oa82cbdcfcmsbumfb73p">Spotify</a>
 
 </div>
+<!--
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/Furkan-Gulsen) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/muhammed-furkan-g%C3%BCl%C5%9Fen/) 
+ [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.furkangulsen@gmail.com)
+-->
