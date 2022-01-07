@@ -1,4 +1,11 @@
 # Ivo Miguel Lima <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IvoLims.IvoLims">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ivo+Miguel+Lima....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm getting a degree in Computer Science 👨‍💻.
 
