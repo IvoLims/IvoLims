@@ -6,7 +6,6 @@
   </a>
 </h1>
 
-# About Me
 Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm getting a degree in Computer Science 👨‍💻.
 
 <p align="center">
