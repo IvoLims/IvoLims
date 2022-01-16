@@ -32,16 +32,6 @@ Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm 
 </p>
 
 <div align="center">
-
-<h3 align="center">
-  Profile 3D Contributions 🔰
-</h3>
-
-<img src="https://github.com/IvoLims/IvoLims/tree/main/Profile_3D/profile-night-rainbow.svg"/>
-</div>
-
-
-<div align="center">
   <i>Follow me around the web:</i><br>
 
   <a target="_blank" href="https://www.linkedin.com/in/ivo-lima-979a31229/">LinkedIn</a> ●
