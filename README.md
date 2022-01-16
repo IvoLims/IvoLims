@@ -32,7 +32,7 @@ Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm 
 </p>
 
 <div align="center">
-  <img src="https://github.com/IvoLims/IvoLims/tree/main/Profile_3D/profile.svg"/>
+  <img src="https://github.com/IvoLims/IvoLims/tree/main/Profile_3D/profile-night-rainbow.svg"/>
 </div>
 
 <div align="center">
