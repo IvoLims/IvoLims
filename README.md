@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IvoLims.IvoLims">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IvoLims.IvoLims&left_text=My%20Page%20Visitors">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
