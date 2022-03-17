@@ -12,7 +12,7 @@ Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm 
   <img src="https://github.com/IvoLims/IvoLims/blob/main/Epic.gif" width="40%">
 </p>
 
-# My programming skills 💻
+# Skills & Tools 💻
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" height="25"/>
