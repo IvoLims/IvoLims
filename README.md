@@ -33,13 +33,18 @@ Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm 
 
 <div align="center">
   <i>Follow me around the web:</i><br>
+  <a href="https://www.instagram.com/ivo_lims/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+  <a href="https://www.linkedin.com/in/ivo-lima-979a31229/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+  <a href="https://open.spotify.com/user/6yqi6oa82cbdcfcmsbumfb73p" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="Spotify" width="30"></a>
+  <a href="https://github.com/IvoLims" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a> 
+</div>
 
+<!--
+  <a href="https://arturio.dev/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a> Website
   <a target="_blank" href="https://www.linkedin.com/in/ivo-lima-979a31229/">LinkedIn</a> ●
   <a target="_blank" href="https://www.instagram.com/ivo_lims/">Instagram</a> ●
   <a target="_blank" href="https://open.spotify.com/user/6yqi6oa82cbdcfcmsbumfb73p">Spotify</a>
-  
-</div>
-<!--
+
 😐 I have a love/hate relationship with Programming
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/Furkan-Gulsen) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/muhammed-furkan-g%C3%BCl%C5%9Fen/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.furkangulsen@gmail.com)
