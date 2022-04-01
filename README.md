@@ -36,7 +36,7 @@ Hi! 👋😊 I'm Ivo Miguel and I'm a student at University of Minho, where I'm 
   <a href="https://www.instagram.com/ivo_lims/" target="_blank"><img src="https://raw.githubusercontent.com/IvoLims/IvoLims/main/Images/insta.png" alt="Instagram" width="30"></a>
   <a href="https://www.linkedin.com/in/ivo-lima-979a31229/" target="_blank"><img src="https://raw.githubusercontent.com/IvoLims/IvoLims/main/Images/link.png" alt="LinkedIn" width="30"></a>
   <a href="https://open.spotify.com/user/6yqi6oa82cbdcfcmsbumfb73p" target="_blank"><img src="https://raw.githubusercontent.com/IvoLims/IvoLims/main/Images/spot.png" alt="Spotify" width="30"></a>
-  <a href="https://github.com/IvoLims" target="_blank"><img src="https://raw.githubusercontent.com/IvoLims/IvoLims/main/Images/git.png" alt="GitHub" width="30"></a> 
+  <a href="mailto:t2ivomiguel@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/IvoLims/IvoLims/main/Images/git.png" alt="GMail" width="30"></a> 
 </div>
 
 <!--
